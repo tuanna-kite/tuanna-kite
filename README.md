@@ -262,17 +262,6 @@ A few principles I try to follow:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tuanna-kite&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanna-kite&layout=compact&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
